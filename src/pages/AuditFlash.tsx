@@ -33,7 +33,7 @@ export default function AuditFlash() {
         <div>
           <h2>Prix</h2>
           <p className="price">{auditFlash.price}</p>
-          <p>Le prix exact est indiqué dans le devis écrit, avant la visite. {auditFlash.deduction}</p>
+          <p>Le prix exact est indiqué dans l'offre de service, avant la visite. {auditFlash.deduction}</p>
         </div>
         <div className="card"><h3>Limites de l’audit</h3>
           <p>L’Audit Flash est une vérification de base. Ce n’est ni un test d’intrusion, ni un audit de cybersécurité avancé, ni une garantie de protection contre les cyberattaques : il vise à réduire les risques courants les plus fréquents.</p></div>
