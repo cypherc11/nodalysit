@@ -41,7 +41,7 @@ export default function AuditFlash() {
     </Section>
 
     <section className="cta-band"><div className="wrap">
-      <h2>Commencez par un diagnostic gratuit.</h2>
+      <h2>Commencez par un diagnostic gratuit et rapide.</h2>
       <div className="actions"><Btn to="/diagnostic">Demander un diagnostic gratuit</Btn><Btn href={site.whatsapp} kind="ghost">Discuter sur WhatsApp</Btn></div>
     </div></section>
   </>);
